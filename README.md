@@ -18,7 +18,7 @@ The first task was to visualize an earthquake data set.
 
    ![3-Data](Images/3-Data.png)
 
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and picked the 30 day data set to visualize.
 
    ![4-JSON](Images/4-JSON.png)
 
@@ -30,4 +30,4 @@ The first task was to visualize an earthquake data set.
 
    * Included popups that provide additional information about the earthquake when a marker is clicked.
 
-   * Created a legend that will provide context for your map data.
+   * Created a legend to provide context for map data.
